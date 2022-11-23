@@ -32,7 +32,8 @@
 - Лог пользователя
 
 ## 4. Схематично изобразить не нормализованную схему БД:
-![image](https://user-images.githubusercontent.com/38133117/203613484-da60e76a-87ff-401a-9d91-e0c64e6ecfe1.png)
+![image](https://user-images.githubusercontent.com/38133117/203616420-c5674b4f-cf7c-489a-9ead-24ae26a25dc3.png)
+
 
 ## 5. Описать каждую сущность:
 
